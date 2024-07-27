@@ -20,11 +20,14 @@ body {
     overflow: hidden;
     width: 300px;
     max-width: 100%;
-    min-height: 450px;
+    height: 480px;
 }
 .img-section img {
     padding: 15px;
     border-radius: 32px;
+}
+.content {
+    margin: 10px 0px
 }
 .body-header {
     font-weight: bold;
